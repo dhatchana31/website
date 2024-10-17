@@ -119,7 +119,7 @@ line-height: 1.3;
 .social-media a:hover{
     background:var(--main-color);
     color: var(--snd-bf-color);
-    box-shadow: 0 0 1rem var(--main-color);
+    box-shadow: 0 0 1rem var(--main-color); 
 } */
 .btn{
     display: inline-block;
